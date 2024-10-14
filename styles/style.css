@@ -55,10 +55,12 @@ nav{
 }
 #banner-description{
     color: #0D1321;
+    opacity: 0.7;
 font-family: "Azeret Mono";
 font-size: 15px;
 font-weight: 400;
 margin-top: 21px;
+
 }
 #banner-btn{
     color: #FFFFFF;
@@ -77,6 +79,7 @@ margin-top: 21px;
     font-size: 15px;
     font-weight: 400;
     margin-top: 21px;
+    opacity: 0.7;
 
 }
 
@@ -149,11 +152,12 @@ padding-bottom: 50px;
 
 }
 .Inspiration-sub-title{
+    margin-top: 22px;
+   margin-bottom: 44px;
 
 }
 .video{
     margin: 43px auto;
-    align-self: center;
     width: 1045px;
     height: 500px;
     border-radius: 16px;
@@ -165,8 +169,48 @@ padding-bottom: 50px;
 .video-container{
     margin: 43 auto;
     text-align:center;
-    
-    
+}
+
+/* Current target section */
+
+.target-title{
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 28px;
+    font-weight: 800;
+    margin-top: 135px;
+}
+.target-sub-title{
+    margin-top: 22px;
+    margin-bottom: 44px;    
+}
+.anchor{
+    color: #0D1321;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.cards{
+    display: flex;
+    margin: 44px auto;
+    justify-content: center;
+    gap: 21px;
+}
+.card{
+    width: 260px;
+    padding: 35px;
 
 }
 
+.card-a{
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+}
+.card-b{
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);    
+}
+.card-c{
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
