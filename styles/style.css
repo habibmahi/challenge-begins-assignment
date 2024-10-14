@@ -82,7 +82,7 @@ margin-top: 21px;
 
 .development{
     /* width: 1200px; */
-    max-width: 1250px;
+    max-width: 1175px;
     border-radius: 16px;
     background: rgba(13, 19, 33, 0.02);
     margin: 65px auto;
@@ -93,7 +93,7 @@ margin-top: 21px;
     align-items: center ;
     justify-content: center;
     background-color: #FFFFFF;
-    max-width: 899px;
+    max-width: 875px;
     margin: 32px auto;
     justify-content: space-between;
     border-radius: 15px;
@@ -101,7 +101,7 @@ margin-top: 21px;
 
 }
 .boxes{
-padding-bottom: 72px;
+padding-bottom: 50px;
  
 }
 .development-title{
@@ -140,4 +140,33 @@ padding-bottom: 72px;
     opacity: 0.7;    
 }
 
+/* Inspiration Section */
+.Inspiration-title{
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 28px;
+    font-weight: 800;
+
+}
+.Inspiration-sub-title{
+
+}
+.video{
+    margin: 43px auto;
+    align-self: center;
+    width: 1045px;
+    height: 500px;
+    border-radius: 16px;
+    border: 1px solid rgba(13, 19, 33, 0.20);
+    padding: 28px;
+
+    
+}
+.video-container{
+    margin: 43 auto;
+    text-align:center;
+    
+    
+
+}
 
