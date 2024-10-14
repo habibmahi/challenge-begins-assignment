@@ -80,3 +80,64 @@ margin-top: 21px;
 
 }
 
+.development{
+    /* width: 1200px; */
+    max-width: 1250px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+    margin: 65px auto;
+
+}
+.box{
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+    background-color: #FFFFFF;
+    max-width: 899px;
+    margin: 32px auto;
+    justify-content: space-between;
+    border-radius: 15px;
+    padding: 44px;
+
+}
+.boxes{
+padding-bottom: 72px;
+ 
+}
+.development-title{
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 28px;
+    font-weight: 800;
+    padding-top: 72px;
+   
+
+}
+.development-sub-title{
+    padding-top: 22px;
+    padding-bottom: 44px;
+}
+.box-title{
+    color: rgba(13, 19, 33, 0.70);
+    font-family: "Azeret Mono";
+    font-size: 22px;
+    font-weight: 700;   
+    margin-bottom: 14px;
+}
+.box-sub-title{
+    margin-bottom: 28px;
+}
+.box-btn{
+    color: #0D1321;
+    font-size: 18px;
+    font-weight: 600;
+    display: flex;
+    padding: 11px 18px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;    
+    border: 1px solid #0D1321;
+    opacity: 0.7;    
+}
+
+
