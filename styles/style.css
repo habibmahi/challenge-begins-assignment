@@ -214,3 +214,60 @@ padding-bottom: 50px;
     border-radius: 16px;
     background: rgba(255, 223, 0, 0.05);
 }
+
+/* SUPPORT section styles */
+
+
+.support{
+    background-image: url(/B10A1-Challenge-Begins/assets/handshakeresized.jpg);
+    margin: 44px auto;
+    width: 1045px;
+    height: 360px;
+    text-align: center;
+    border-radius: 16px;
+    
+  
+    
+}
+
+.support-title{
+    color: #FFF;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 28px; 
+    font-weight: 700;   
+   padding-top: 85px;
+}
+.support-sub-title{
+    color: #FFF;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 14px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+#suggest{
+    border-radius: 8px;
+   
+    width: 450px;
+    height: 44px;
+    color: rgba(13, 19, 33, 0.40);
+    font-size: 15px;
+    font-weight: 400;
+    border-color: white;
+ 
+}
+#submit{
+ 
+    width: 120px;
+    padding: 17px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #FFF;
+    color: #0D1321;
+    font-weight: 600;
+}
